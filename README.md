@@ -56,7 +56,7 @@ Ensure you have [Docker Desktop](https://www.docker.com/products/docker-desktop/
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/GitWithAbhishek/inventory-system.git](https://github.com/GitWithAbhishek/inventory-system.git)
+   git clone https://github.com/GitWithAbhishek/inventory-system.git
    cd inventory-system
 
 
